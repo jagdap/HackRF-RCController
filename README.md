@@ -1,1 +1,1 @@
-The code in this project was used to run a wireless "hacking" demonstration for High School and Middle School students.
+The code in this project was used to run a wireless "hacking" demonstration for High School and Middle School students, where an R/C car was controlled via HackRF SDR. It uses the SoapySDR module to interact with the HackRF on-the-fly, sending it commands to drive the R/C car. It also features a basic Tkinter GUI for interactivity.
