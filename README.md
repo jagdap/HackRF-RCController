@@ -1,0 +1,1 @@
+The code in this project was used to run a wireless "hacking" demonstration for High School and Middle School students.
